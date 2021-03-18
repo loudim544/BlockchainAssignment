@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BlockchainAssignment
 {
-    class Blockchain
+    class Blockchain       
     {
         // List of block objects forming the blockchain
         public List<Block> blocks;
